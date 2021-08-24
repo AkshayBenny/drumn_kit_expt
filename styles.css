@@ -17,39 +17,42 @@ footer {
 }
 
 .w {
- background-image: url("images/crash.png");
- background-position: cover;
-}
-
-.a {
-  background-image: url("images/kick.png");
-  background-position: cover;
-}
-
-.s {
-  background-image: url("images/snare.png");
-  background-position: cover;
-}
-
-.d {
   background-image: url("images/tom1.png");
   background-position: cover;
-}
-
-.j {
+  
+ }
+ 
+ .a {
   background-image: url("images/tom2.png");
   background-position: cover;
-}
-
-.k {
+   
+ }
+ 
+ .s {
   background-image: url("images/tom3.png");
   background-position: cover;
-}
-
-.l {
+   
+ }
+ 
+ .d {
   background-image: url("images/tom4.png");
   background-position: cover;
-}
+ }
+ 
+ .j {
+  background-image: url("images/crash.png");
+  background-position: cover;
+ }
+ 
+ .k {
+  background-image: url("images/kick.png");
+  background-position: cover;
+ }
+ 
+ .l {
+  background-image: url("images/snare.png");
+  background-position: cover;
+ }
 
 .set {
   margin: 10% auto;
@@ -86,3 +89,5 @@ footer {
   margin: 10px;
   background-color: white;
 }
+
+
