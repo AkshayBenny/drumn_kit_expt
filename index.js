@@ -57,6 +57,6 @@ function makeSound(key) {
       snare.play();
     break;
 
-    default: alert('Only keys w, a, s, d, j, k, l are assigned audio.')
+    default: alert('Button not assigned.')
   }
 }
