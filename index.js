@@ -60,3 +60,7 @@ function makeSound(key) {
     default: alert('Button not assigned.')
   }
 }
+
+function buttonAnimation() {
+  
+}
